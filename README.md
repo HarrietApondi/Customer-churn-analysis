@@ -1,6 +1,6 @@
 # Customer-churn-analysis
 
-This project explores customer retention and churn in a bank using a simulated dataset. I used **SQL** and **Python (Pandas, Matplotlib)** to answer key business questions and uncover patterns that drive customer churn.
+Welcome.This project explores customer retention and churn in a bank using a simulated dataset. I used **SQL** and **Python (Pandas, Matplotlib)** to answer key business questions and uncover patterns that drive customer churn.
 
 ---
 
